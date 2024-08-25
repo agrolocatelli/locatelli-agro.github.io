@@ -1,2 +1,0 @@
-# locatelli.github.io
-Locatelli
